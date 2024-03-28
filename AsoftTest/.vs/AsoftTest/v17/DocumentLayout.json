@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ACER\\Desktop\\WebCoBan\\AsoftTest\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55250055-8FCC-4D33-8BB0-9F8C3783BE5F}|AsoftTest\\AsoftTest.csproj|c:\\users\\acer\\desktop\\webcoban\\asofttest\\asofttest\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55250055-8FCC-4D33-8BB0-9F8C3783BE5F}|AsoftTest\\AsoftTest.csproj|solutionrelative:asofttest\\views\\user\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55250055-8FCC-4D33-8BB0-9F8C3783BE5F}|AsoftTest\\AsoftTest.csproj|C:\\Users\\ACER\\Desktop\\WebCoBan\\AsoftTest\\asofttest\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55250055-8FCC-4D33-8BB0-9F8C3783BE5F}|AsoftTest\\AsoftTest.csproj|solutionrelative:asofttest\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55250055-8FCC-4D33-8BB0-9F8C3783BE5F}|AsoftTest\\AsoftTest.csproj|C:\\Users\\ACER\\Desktop\\WebCoBan\\AsoftTest\\asofttest\\scripts\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{55250055-8FCC-4D33-8BB0-9F8C3783BE5F}|AsoftTest\\AsoftTest.csproj|solutionrelative:asofttest\\scripts\\user.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55250055-8FCC-4D33-8BB0-9F8C3783BE5F}|AsoftTest\\AsoftTest.csproj|C:\\Users\\ACER\\Desktop\\WebCoBan\\AsoftTest\\asofttest\\css\\user.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{55250055-8FCC-4D33-8BB0-9F8C3783BE5F}|AsoftTest\\AsoftTest.csproj|solutionrelative:asofttest\\css\\user.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.js",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\WebCoBan\\AsoftTest\\AsoftTest\\Scripts\\User.js",
+              "RelativeDocumentMoniker": "AsoftTest\\Scripts\\User.js",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\WebCoBan\\AsoftTest\\AsoftTest\\Scripts\\User.js",
+              "RelativeToolTip": "AsoftTest\\Scripts\\User.js",
+              "ViewState": "AQIAAHMAAAAAAAAAAAAAAHMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-03-28T02:21:50.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\WebCoBan\\AsoftTest\\AsoftTest\\Views\\User\\Index.cshtml",
+              "RelativeDocumentMoniker": "AsoftTest\\Views\\User\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\WebCoBan\\AsoftTest\\AsoftTest\\Views\\User\\Index.cshtml",
+              "RelativeToolTip": "AsoftTest\\Views\\User\\Index.cshtml",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAHkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-26T08:09:01.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.css",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\WebCoBan\\AsoftTest\\AsoftTest\\CSS\\User.css",
+              "RelativeDocumentMoniker": "AsoftTest\\CSS\\User.css",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\WebCoBan\\AsoftTest\\AsoftTest\\CSS\\User.css",
+              "RelativeToolTip": "AsoftTest\\CSS\\User.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-27T09:10:05.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\ACER\\Desktop\\WebCoBan\\AsoftTest\\AsoftTest\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "AsoftTest\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\ACER\\Desktop\\WebCoBan\\AsoftTest\\AsoftTest\\Controllers\\UserController.cs",
+              "RelativeToolTip": "AsoftTest\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAgwFsAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-26T08:06:43.587Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
